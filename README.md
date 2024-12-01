@@ -33,4 +33,17 @@ Validation:
 
 Handle invalid inputs gracefully, such as non-numeric inputs or invalid operation selections.
 
+Implementation Steps:
+
+Use Python's built-in input() function to gather user inputs for numbers and operation choice.
+Implement arithmetic operations with simple mathematical operators.
+Use conditional statements (if-elif-else) to execute the selected operation.
+Handle potential errors, such as division by zero, with exception handling or conditional checks.
+Display the result in a user-friendly format.
+
+Expected Outcome:
+A user-friendly Python program where users can seamlessly perform basic arithmetic operations by entering two numbers and selecting their desired operation. The program will validate inputs and handle errors, ensuring a smooth user experience.
+
+This project serves as an introduction to Python programming concepts like conditionals, input handling, and basic arithmetic operations.
+
 
